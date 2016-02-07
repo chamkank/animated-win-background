@@ -1,7 +1,7 @@
 # animated-win-background
 Python script for animated background on Windows
 <h1>Usage</h1>
-1. Split animated image into frames. If the image is a GIF, use http://www.ezgif.com/split
+1. Split animated image into frames. If the image is a GIF, use http://www.ezgif.com/split.
 2. Copy images into /images folder of project.
 3. Run shuffle.py
 
