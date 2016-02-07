@@ -11,6 +11,3 @@ NOTE: If you encounter performances issues, use less frames and/or increase the 
 
 <h1>How it works</h1>
 It's essentially an implementation of a background shuffler. The methods in <b>background_shuffler.py</b> simply change the background at a given time interval. By reducing this time interval to <1s, an animated background effect is achieved. 
-
-<h1>Screenshots</h1>
-http://i.imgur.com/9fSKRKd.gifv
