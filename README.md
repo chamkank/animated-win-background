@@ -21,5 +21,6 @@ http://i.imgur.com/muPAAEs.gif
 
 <h1>Sample GIFs</h1>
 Here are some .gif files that make for good backgrounds. Feel free to add any.
-1. [Pixel art backgrounds](http://i.imgur.com/297G0Yv.gif)
+
+1. [Pixel art backgrounds](http://imgur.com/gallery/GPlx4)
 w. [Dancing cat](http://24.media.tumblr.com/34236728900b726b198ab8e802182513/tumblr_mfxf0w364J1rqb8h7o1_500.gif)
