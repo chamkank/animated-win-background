@@ -22,7 +22,7 @@ def shuffle(t):
     Shuffles the desktop background sequentially in alphanumerical order using images in folder /images/ where:
         - 't' is the time interval between each image in seconds
         
-    REQUIRES - all files in /images/ folder are compatible images
+    REQUIRES - all files in /images/ folder are compatible images 
     '''
     filepath = get_file_path("frames")
     list_of_files = get_file_names(filepath)
