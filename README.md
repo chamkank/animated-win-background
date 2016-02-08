@@ -9,7 +9,12 @@ After downloading the project:
 4. Run <b>animate.py</b>
 5. To stop the animation, close the script. 
 
+If you don't have Python installed, you can download it [here](https://www.python.org/downloads/).
+
 NOTE: If you encounter performances issues, use less frames and/or increase the shuffle interval. To do this, change 0.15 to the amount of seconds you want in <b>animate.py</b>.
 
 <h1>How it works</h1>
 It's essentially an implementation of a background shuffler. The methods in <b>background_shuffler.py</b> simply change the background at a given time interval. By reducing this time interval to <1s, an animated background effect is achieved. 
+
+<h1>Screenshots</h1>
+![Animated background example](http://i.imgur.com/muPAAEs.gifv)
