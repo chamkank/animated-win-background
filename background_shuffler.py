@@ -1,12 +1,3 @@
-'''
-TODO:
--add GUI, allows user to input gif url
-(allow them to select no internet option which tells them to put the images in /images/ by themeselves
--this file is background_shuffler, make a seperate one for ezgif (upload to github seperately)
--also make a seperate file/class for GUI, which is the controller
--download the folder from ezgif.com or extract html to download images in /images/
-'''
-
 from os import listdir
 from os.path import isfile, join
 import ctypes
