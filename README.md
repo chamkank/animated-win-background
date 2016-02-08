@@ -6,10 +6,8 @@ After downloading the project:
 1. Split animated image into frames. If the image is a GIF, use http://www.ezgif.com/split.
 2. Delete images in <i>frames</i> folder of project (sample images).
 3. Copy frames into <i>frames</i> folder of project.
-4. Run <b>animate.py</b>
+4. Run <b>animate.py</b> (you will need [Python](https://www.python.org/downloads/) to run this)
 5. To stop the animation, close the script. 
-
-If you don't have Python installed, you can download it [here](https://www.python.org/downloads/).
 
 NOTE: If you encounter performances issues, use less frames and/or increase the shuffle interval. To do this, change 0.15 to the amount of seconds you want in <b>animate.py</b>.
 
